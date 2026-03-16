@@ -144,7 +144,7 @@ function LoginComponent() {
               </div>
 
               <p className="pt-2 pb-0 px-3 text-[13px] leading-[1.5]">
-                By logging in and using OnlyFans, you agree to our
+                By logging in and using Content Sharing, you agree to our
                 <span className="text-[#00aff0]"> Terms of Service</span> and
                 <span className="text-[#00aff0]"> Privacy Policy</span>, and confirm
                 that you are at least 18 years old.
@@ -209,7 +209,7 @@ function LoginComponent() {
           </div>
           <div className="flex flex-col justify-center">
             <p>
-              If you have an OnlyFans account, you will receive a password reset
+              If you have an Content Sharing account, you will receive a password reset
               link to this e-mail.
             </p>
             <form>
