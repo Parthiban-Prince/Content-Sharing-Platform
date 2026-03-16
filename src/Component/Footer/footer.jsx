@@ -25,7 +25,7 @@ function Footer() {
           <li className="cursor-pointer hover:text-black">Help</li>
           <li className="cursor-pointer hover:text-black">Store</li>
           <li className="cursor-pointer hover:text-black">Cookie Notice</li>
-          <li className="cursor-pointer hover:text-black">OnlyFans Safety & Transparency Center</li>
+          <li className="cursor-pointer hover:text-black">Content Sharing Safety & Transparency Center</li>
         </ul>
       </div>
 
