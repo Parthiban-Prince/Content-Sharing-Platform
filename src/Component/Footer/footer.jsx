@@ -10,7 +10,7 @@ function Footer() {
       
       {/* Column 1: Branding & Social */}
       <div className="flex flex-col items-center gap-3 mb-6 sm:mb-0">
-        <h6>© {year} OnlyFans</h6>
+        <h6>© {year} Content Sharing</h6>
         <h6 className="cursor-pointer hover:text-black">Contact</h6>
         <div className="flex gap-4">
           <img src={X} alt="Twitter/X" className="bg-black w-8 h-8 p-1 rounded-full cursor-pointer" />
